@@ -24,7 +24,7 @@ if(!isset($_SESSION['user_name'])){
 </head>
 <body>
    
-<div class="">
+<div class="container">
 
    <div class="content">
       <h3>hi, <span>user</span></h3>
